@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @ercodex
-- 👀 I’m interested in Deep Learning.
+- 👋 Hi, I’m Eren (@ercodex) Çil.
+- 👀 I’m interested in Deep Learning, Image Processing, and Bioinformatics.
 - 🌱 I’m currently working on a paper.
 - 💞️ I’m looking to collaborate on Kaggle competitions.
 - ⚡ Fun fact: I'm a karate black-belt!
 
 ## Upcoming Repositories
-- Python codes of bunch of **numerical methods** applied on functions for **finding root, extrema etc**.
-- Lab projects of **OOP1** and **Data Structures** lectures.
+- RAG implementation on a small language model.
+- Cooking up some science 👀.
+- A precise **DL model** for **detecting enemy uav's** and a huge **public dataset** (100k+ labeled images).
 - A C++ console game called **Knuckleballs**.
-- A precise **DL model** for **detecting enemy uav's** and a **public dataset**.
 - Hundreds of pages of **Deep Learning notes** written by me.
