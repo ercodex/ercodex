@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eren (@ercodex) Çil.
 - 👀 I’m interested in Deep Learning, Image Processing, and Bioinformatics.
-- 🌱 I’m currently working on a paper.
+- 🌱 I’m currently founding a research lab.
 - 💞️ I’m looking to collaborate on Kaggle competitions.
 - ⚡ Fun fact: I'm a karate black-belt!
 
