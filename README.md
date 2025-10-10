@@ -5,8 +5,7 @@
 - ⚡ Fun fact: I'm a karate black-belt!
 
 ## Upcoming Repositories
-- RAG implementation on a small language model.
 - Cooking up some science 👀.
-- A precise **DL model** for **detecting enemy uav's** and a huge **public dataset** (100k+ labeled images).
+- A precise **Object Detection Model** for **detecting enemy uav's** and the largest **public dataset** in that context (100k+ labeled images).
 - A C++ console game called **Knuckleballs**.
 - Hundreds of pages of **Deep Learning notes** written by me.
